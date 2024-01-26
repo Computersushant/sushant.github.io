@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    background-color: aliceblue;
+    padding: 0;}
+
+    header {
+        margin-top: 20px;
+        margin-left:100px;
+        margin-right:100px;
+        background-color: #fff;
+    }
+    .head{
+        justify-content: center;
+        text-align: center;
+    }
+    .head h1 ,p  { 
+        margin-top:10px;
+        text-decoration: underline;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+
+    }
+    
+    .header .p1{
+        margin-left:25px;
+        margin-top: 20px;
+
+    }
+    .header .p2{
+        margin-left:750px;
+        margin-top:-55px;
+    }
+
+    table{
+        margin-top:0px;
+    }
+    table, th, td {
+     border:1px solid #000;   
+    }
+    td,th{
+        text-align: center;
+    }
